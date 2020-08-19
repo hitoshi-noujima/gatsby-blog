@@ -43,7 +43,6 @@ const SEO = props => {
             <meta property="og:url" content={url} />
             <meta property="og:type" content="website" />
             <meta property="og:locale" content={siteMetadata.locale} />
-            <meta property="fb:app_id" content={siteMetadata.fbappid} />
             <meta property="og:image" content={imgurl} />
             <meta property="og:image:width" content={imgw} />
             <meta property="og:image:height" content={imgh} />
