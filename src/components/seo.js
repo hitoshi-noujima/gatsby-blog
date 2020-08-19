@@ -15,7 +15,6 @@ const SEO = props => {
                     title
                     siteUrl
                     locale
-                    fbappid
                 }
             }
         }
